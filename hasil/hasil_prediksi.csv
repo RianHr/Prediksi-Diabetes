@@ -1,0 +1,3 @@
+Jumlah_Kehamilan,Glukosa,Tekanan_Darah,Ketebalan_Kulit,Insulin,BMI,Riwayat_Keluarga,Usia,Prediksi,Probabilitas,Faktor_Terkuat_1,Faktor_Terkuat_2,Faktor_Terkuat_3
+4,140,120,24,89,35.5,0.8,44,🟥 Positif Diabetes,0.553910349252223,Tekanan_Darah,Glukosa,Insulin
+3,122,78,25,85,29.53,0.8,36,🟩 Negatif Diabetes,0.3418050447985275,Insulin,Riwayat_Keluarga,BMI

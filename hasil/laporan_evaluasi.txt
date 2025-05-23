@@ -1,0 +1,17 @@
+=== EVALUASI MODEL ===
+Akurasi: 0.7208
+ROC AUC Score: 0.8257
+
+Confusion Matrix:
+[[78 22]
+ [21 33]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.78      0.78       100
+           1       0.60      0.61      0.61        54
+
+    accuracy                           0.72       154
+   macro avg       0.69      0.70      0.69       154
+weighted avg       0.72      0.72      0.72       154
